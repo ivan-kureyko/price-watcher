@@ -35,7 +35,7 @@ Users can subscribe to a listing using an email address. The service periodicall
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ivan-kureyko/price-watcher.git
 cd price-watcher
 
 docker compose up -d  - Start containers
